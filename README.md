@@ -1,59 +1,59 @@
 # 🌟 My Site for Me
 
-Добро пожаловать на мой личный сайт, где вы можете узнать обо мне, моих достижениях, навыках, проектах и многом другом! 🎉
+Welcome to my personal website where you can learn about me, my achievements, skills, projects, and much more! 🎉
 
-## 🚀 О проекте
+## 🚀 About the Project
 
-Этот проект был создан с помощью [Create React App](https://github.com/facebook/create-react-app). Здесь вы найдете всю необходимую информацию обо мне.
+This project was created with [Create React App](https://github.com/facebook/create-react-app). Here you will find all the necessary information about me.
 
-## 📜 Скрипты
+## 📜 Available Scripts
 
-В директории проекта вы можете запустить следующие команды:
+In the project directory, you can run the following commands:
 
 ### `npm start`
 
-Запускает приложение в режиме разработки.\
-Откройте [http://localhost:3000](http://localhost:3000) для просмотра в браузере.
+Runs the app in development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm test`
 
-Запускает тестовый раннер в интерактивном режиме просмотра.\
-Подробнее см. в разделе о [запуске тестов](https://facebook.github.io/create-react-app/docs/running-tests).
+Launches the test runner in interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Создает сборку приложения для продакшена в папке `build`.\
-Правильно объединяет React в режиме продакшена и оптимизирует сборку для достижения наилучшей производительности.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 🎨 О мне
+## 🎨 About Me
 
-Привет! Меня зовут Бекастан и я страстный разработчик с любовью к технологиям и кодированию. Я люблю создавать удивительные приложения и постоянно стремлюсь к новым знаниям и навыкам.
+Hello! My name is Bekastan, and I am a passionate developer with a love for technology and coding. I enjoy creating amazing applications and constantly strive to learn new skills and knowledge.
 
-### 💼 Мои навыки
+### 💼 My Skills
 
-- Языки программирования: JavaScript, Python, TypeScript
-- Фреймворки: React, Node.js, Django, DRF
-- Инструменты: Git, Docker, Webpack
+- Programming Languages: JavaScript, Python, TypeScript
+- Frameworks: React, Node.js, Django, DRF
+- Tools: Git, Docker, Webpack
 
-### 📚 Мои проекты
+### 📚 My Projects
 
-- [Проекты](https://github.com/nasirovx?tab=repositories) - краткое описание проекта
+- [Projects](https://github.com/nasirovx?tab=repositories) - brief description of the project
 
-### 📞 Контакты
+### 📞 Contact
 
 - Email: [5ekastannasiro@example.com](mailto:5ekastannasirov@example.com)
 - LinkedIn: [5ekastan](https://linkedin.com/in/5ekastan)
 - GitHub: [nasirovx](https://github.com/nasirovx)
 
-### ✨ И другое
+### ✨ And More
 
-- Увлекаюсь искусственным интеллектом и машинным обучением 🤖
-- Люблю участвовать в open-source проектах 🌍
+- Interested in artificial intelligence and machine learning 🤖
+- Love contributing to open-source projects 🌍
 
-## 📝 Лицензия
+## 📝 License
 
-Этот проект лицензирован под лицензией MIT.
+This project is licensed under the MIT License.
 
 ---
 
-Спасибо за внимание! 😊 Надеюсь, вам понравится мой сайт и вы найдете его полезным.
+Thank you for your attention! 😊 I hope you enjoy my site and find it useful.
